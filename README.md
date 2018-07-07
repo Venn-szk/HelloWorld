@@ -6,3 +6,8 @@ public class HelloWorld{
         System.out.println("Hello World!");
     }
 }
+//And something else?
+int main(){
+    printf("Hello World!");
+    return 0;
+}
